@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @himanshu754
 - 👀 I’m interested in Angular,NodeJs.
-- 🌱 I’m currently doing Btech CSE 4th Year
+- 🌱 I’m currently working as Full Stack Developer at Tranzita Systems
 - 💞️ I’m looking to collaborate on MEAN Stack
 - 📫 How to reach me hm4436671@gmail.com   https://www.linkedin.com/in/himanshu-mishra-1074bb18b/
 
